@@ -25,11 +25,6 @@ It's an opportunity to not only understand its complexities but also to implemen
 
 Nowadays, blockchain technologies are more developed and network needs are being met. More and more people are getting involved in this field. New technology, like this, always brings excitement. I've chosen this path, and despite its challenges, it's full of joy 🤩 .
 
-# One month with Sui, and everything changes.
-I remember the March when I attended the Sui happy hour organized in Vietnam. Sui made me curious about how we reshape the world in web3. The story now starts with objects and assets not being stored in smart contracts, but actually in account addresses. We also learned about new terms like zklogin, object display, and Transaction Blocks...
-
-We had a hard time learning and building with the SUI move. That's when I thought about creating a team and making a real project for everyone, not just a **minimum viable product (MVP)**. This was when the Weminal team and its product were born.
-
 
 #  Our ecosystem
 
